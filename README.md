@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Circuit Design, Embedded Systems Design** 🪸
 
-- 💬 Ask me about **Philosophy 🧠 , AI ethics 🤖, Art 🎨, and Science Fiction 👽** 
+- 💬 Ask me about **Philosophy 🧠 , Art 🎨, and Science Fiction 👽** 
 
 
 <h3 align="left">Connect with me:</h3>

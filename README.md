@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏾, I'm Salem 🧚🏽</h1>
 <h3 align="center">An Artist, Creative Technologist ,Software Engineer, and Storyteller.</h3>
 
-- 🔭 I’m currently working on [BigQuery DataFrames](https://cloud.google.com/bigquery/docs/bigquery-dataframes)
+- 🔭 I’m currently working on **Mirridian**
 
 - 🌱 I’m currently learning **Circuit Design, Embedded Systems Design** 🪸
 
